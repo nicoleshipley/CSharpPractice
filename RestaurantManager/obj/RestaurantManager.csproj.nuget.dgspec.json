@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nicoleshipley/Desktop/CSharpPractice-master/RestaurantManager/RestaurantManager.csproj": {}
+  },
+  "projects": {
+    "/Users/nicoleshipley/Desktop/CSharpPractice-master/RestaurantManager/RestaurantManager.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nicoleshipley/Desktop/CSharpPractice-master/RestaurantManager/RestaurantManager.csproj",
+        "projectName": "RestaurantManager",
+        "projectPath": "/Users/nicoleshipley/Desktop/CSharpPractice-master/RestaurantManager/RestaurantManager.csproj",
+        "packagesPath": "/Users/nicoleshipley/.nuget/packages/",
+        "outputPath": "/Users/nicoleshipley/Desktop/CSharpPractice-master/RestaurantManager/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nicoleshipley/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
